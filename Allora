@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy – Allora</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 2rem; line-height: 1.6; color: #333; }
+        h1 { color: #1a73e8; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy – Allora</h1>
+    <p><strong>Last updated:</strong> July 2025</p>
+
+    <h2>1. General Information</h2>
+    <p>The Allora app does not collect any personal data. No user accounts, location data, or device identifiers are stored or tracked.</p>
+
+    <h2>2. Functionality</h2>
+    <p>Allora provides its features without using artificial intelligence or automated content generation. The app is designed for simplicity and user privacy.</p>
+
+    <h2>3. Disclaimer of Liability</h2>
+    <p>All content is provided for general information and entertainment purposes. No responsibility is taken for the accuracy or completeness of the content. Use is at your own risk. The developer is not liable for any consequences arising from the use of this app.</p>
+
+    <h2>4. No Data Storage</h2>
+    <p>Inputs entered into Allora are processed locally and are not stored, saved, or used for profiling. No personal data is collected or retained.</p>
+
+    <h2>5. External Services</h2>
+    <p>The app may use Google Play Services for technical features (e.g., crash reports or updates) and follows Google's data policies.</p>
+
+    <h2>6. Contact</h2>
+    <p>If you have any questions about privacy or the app, contact:</p>
+    <p><strong>W. Reisinger</strong><br>
+    📧 pixelbuch2016@gmail.com</p>
+    <hr>
+    <h2>Impressum (Legal Disclosure)</h2>
+    <p><strong>Name:</strong> W. Reisinger<br>
+    <strong>Address:</strong> Alfons Petzold Gasse 23<br>
+    1230 Wien<br>
+    Österreich<br>
+    <strong>Email:</strong> pixelbuch2016@gmail.com</p>
+
+    <p>This app is operated as a private project from Austria. Responsibility is limited to the legal requirements under Austrian law (ECG §5).</p>
+</body>
+</html>
